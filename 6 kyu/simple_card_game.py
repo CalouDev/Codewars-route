@@ -1,4 +1,7 @@
-# This kata is bugged and, with the randomized decks, there is an error from the patch script
+# 29/07/2022: This kata is bugged and, with the randomized decks, there is an error from the patch script
+
+# Edit  01/07/2022: one of this kata's creator gave me an answer: I can't change the array
+# I'll probably edit this code after
 
 def winner(deck_steve, deck_josh):
     steve_score, josh_score = 0, 0
